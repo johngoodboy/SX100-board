@@ -1,4 +1,4 @@
-module main_clk_div_2//Установим 22 шт делителя  на 2
+module top_clk_div_2//Установим 22 шт делителя  на 2
 (
 	input CLK_IN,
 	output [21:0]CLK_OUT//Шина 22-ух выходов поделенной частоты
