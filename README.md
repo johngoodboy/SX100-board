@@ -1,5 +1,6 @@
 # SX100-board
 Плата Novastar SX100. Крякаем и экспериментируем.
+Подробнее <a href="https://habr.com/ru/companies/timeweb/articles/797065/">тут</a>.
 
 ![20240125_171936](https://github.com/johngoodboy/SX100-board/assets/26352652/ce84f1a2-1fa7-4b67-956a-ef9e10349f73)
 
