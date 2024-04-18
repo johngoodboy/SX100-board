@@ -30,12 +30,12 @@ parameter   H_SYNC      = 4    ,//Ширина импульса
             H_FTPORCH   = 8    ,//Пауза после
             H_ALL       = H_SYNC + H_BKPORCH + H_DISPLAY + H_FTPORCH;//Полный период  
 
- // Field frame length counter ?Счётчик для импульсов по вертикали
+ // Field frame length counter Счётчик для импульсов по вертикали
 reg [10:0] cnt_v;
 wire add_cnt_v;
 wire end_cnt_v;
 
- // row frame length counter ?Счётчик для импульсов по горизонтали
+ // row frame length counter Счётчик для импульсов по горизонтали
 reg [10:0] cnt_h;//Для моего разрешения хватит и 9 бит, а не 11
 wire       add_cnt_h;//Зачем эта переменная, если она всегда=1? Видимо, для одинаковости кода для v и h и лёгкого понимания
 wire       end_cnt_h;//Если досчитали до конца
@@ -104,7 +104,7 @@ assign pixel_x = (lcd_de)?(cnt_h - (H_SYNC + H_BKPORCH)):0;
  // Тактовый сигнал
 assign lcd_dclk = clk;
 
- // Normal display high level Это сигнал Disp_ON?
+ // Normal display high level Похоже на сигнал Disp_ON.
 assign lcd_disp = 1'b1;
 
 endmodule
