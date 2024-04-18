@@ -1,0 +1,2069 @@
+Это выдала утилита strings при анализе прошивки SX100_STM32F207VET6.bin
+======================================================
+Самое интересное на мой взгляд:
+/page/default/NovaAjax.html
+20180528 SX100_STM32_MCU_V1.0.3.0_Release support revise mac addr by lct
+/page/default/NovaAjax.html
+Update failed......
+......
+MSC Config
+ MSC Interface
+ STMicroelectronics
+ Nova3D HD
+Mass Storage in HS Mode
+<b>***UNKNOWN TAG
+***</b>
+Can not bind pcb
+Can not create new pcb
+Nova    ProHD           1.00
+rpProMI:App,0161
+<!--#
+/index.ssi
+.ssi
+/index.html
+/index.shtml
+.shtml
+.xml
+/index.htm
+/index.shtm
+.shtm
+sand
+/leds.cgi
+FIN_WAIT_1
+FIN_WAIT_2
+ESTABLISHED
+CLOSED
+SYN_RCVD
+CLOSING
+LAST_ACK
+LISTEN
+TIME_WAIT
+CLOSE_WAIT
+SYN_SENT
+<-V1.0
+q8-@X,E$
+LG FULL HD
+======================================================
+" ! F
+"@! F
+" ! F
+"1F F
+"1F F
+"!F(F
+"1F(F
+"1F(F
+"!F(F
+" ! F
+"@! F
+"@! F
+" ! F
+9F0F
+"9F0F
+"@!0F
+" !0F
+9F0F
+"9F0F
+%ONO
+"AF0F
+"AF0F
+"9F0F
+"9F0F
+%&N
+" !0F
+" !0F
+"@!0F
+"@!0F
+"9F0F
+"9F0F
+!F8F
+1F8F
+)F8F
+CF`Eh
+5CE`
+ pGA
+*F3F
+:FCF
+:FCF
+*F3F
+FYF(F
+0F9F
+0F9F
+(J)K
+!F8F
+)x8F
+AFHF
+:FiF0F
+iFHF
+(D D@
+IFPF
+ D0D@
+ d @
+)F0F
+)F0F
+")F0F
+")F0F
+)F0F
+")F0F
+"1F8F
+"1F8F
+1F8F
+x+MA
+qAxiq
+x(q|
+xBx
+}hq ~(q|
+qAxiq
+x(q|
+FIFcH
++J+K
+*F3F
++F2F
++FRF
++FZF
+$@lxz?
+OH78h
+xh:F
+sVH88
+xTHH0
+pAh     x
+(JRj
+##K*
+ "oI
+jJPl
+J :9
+$*07@GNW^ckqx
+F L
+ I      xI
+p@"!
+L ! F
+ ! F
+ ! F
+IH`pG
+/page/default/NovaAjax.html
+ReadWrite
+ SORT
+NAME
+aaac
+aaad
+aaas
+abaa
+acaa
+acab
+acac
+acad
+acae
+acaf
+acag
+adaa
+adab
+aeaa
+aeab
+aeac
+adad
+afal
+afam
+LANG
+ajad
+ajae
+ajaf
+ajag
+ajah
+ajai
+ajaj
+ajak
+akaa
+akab
+akac
+akad
+akae
+akaf
+alaa
+alab
+alac
+alad
+alae
+alaf
+alag
+alah
+alai
+alaj
+alak
+alal
+d BC
+alat
+alam
+alan
+alao
+alap
+alau
+amab
+amac
+amad
+amae
+asaa
+d BC
+ DevidIndex
+afaa
+afab
+afad
+afae
+afaf
+afag
+afah
+afai
+afaj
+afak
+ahaa
+ahab
+ahac
+ahad
+ahae
+ahaf
+ahag
+agad
+agae
+agaf
+agag
+agah
+PI      h
+KI      h
+FI      h
+@I      h
+:I      h
+5I      h
+0I      h
++I      h
+anaa
+anab
+anac
+aoaa
+araa
+C       h@
+C       h@
+KMKN
+5I      h
+4I      h
+ ERRC
+OIHh`a
+aMNNO
+1h }
+ `a%p
+  p&H
+`p8h
+)L`p)H
+ q&H
+`q%H
+ r`x
+`p#H
+ q H
+ r`x
+XL<#
+!n2
+jK#;
+        k##
+#Oi;
+j(#;
+s%ses%qeq
+WIUH
+##p`p
+pHH
+xGIEH
+.I,H
+##p`p
+USBS
+3F)F F
+(qM=
+(pnp
+eHjF
+`HjF
+$4`z
+        &bE9
+0xqx
+(xix
+(yiy
+PP8~
+)yjy
+)zjz
+!X#2F
+!X#2F
+pG@
+pG@
+`+NH6
+$HL0
+`#HT0
+(`0h@
+`(h
+(`0h
+0`8F
+pGpG|
+IFXF
+IFXF
+"IFXF
+"IFXF
+IFXF
+IFXF
+"IFXF
+"IFXF
+#IFXF
+#IFXF
+FIFXF
+FIFXF
+#IFXF
+#IFXF
+FIFXF
+FIFXF
+!#%'
+ ht.rnr
+ Update failed......
+......
+x@xA
+`p`x
+`p`x
+`p`x
+`p`x
+`p`x
+`p`x
+`p`x
+`p`x
+p8<t
+`p`x
+p8<i
+`p`x
+p:<s
+`p`x
+p:<h
+`p`x
+p<<r
+`p`x
+p<<g
+`p`x
+p><q
+`p`x
+p><f
+`p`x
+p@<r
+`p`x
+p@<h
+`p`x
+pB<r
+`p`x
+pB<i
+`p`x
+`p`x
+IhFA
+ VIWL"\
+!!T@
+APax
+"1F8F
+s |X
+"1F8F
+e'Hhf
+(g(o
+e(o@
+e(o
+`*K+I
+`(NH6
+"IL1
+` IT1
+(`0h@
+`(h
+(`0h
+0`8F
+$L h
+MH5(h
+ `(h@
+` h
+ `(h
+(`0F
+.F0x
+I2FI
+)F0F
+!F0F
+!9pU!yp
+8\ D
+D0\ D
+8\ D
+8\ D
+QDHt
+8\ D
+8\ D
+8\ D
+@qaN
+0\ D
+PA("
+PC(!
+8\ D
+8\ D
+8\ D
+8\ D
+8\ D
+8\ D
+8\ D
+8\ D
+8\ D
+DP(,
+8\ D
+8\ D
+8\ D
+8\ D
+ D9D
+ D9D
+UP D
+!9pU!yp
+y\!D
+!D:D
+L%pep
+aq%r
+L%pep
+eq%r
+qfr0
+~D(F
+pGpG-
+!58\r
+i`fp
+`pU(
+  pR
+`pHE
+  pD
+  pA
+  p>
+  p;
+axU)
+n`        pl
+  pi
+;M$5
+!x F    )I
+n`#M$5
+$8](D
+ (pU hp8N0x
+xhq0y
+s/totO
+!k\STI
+!c`k@
+`c      xap
+IU      h
+.MiF(
+7 +OO
+9`x`
+9`x`
+ pG4,
+h"CDh,C"C
+.u.`n`
+.u.`n`
+#CsdF
+Aui
+AaQh
+DEiE
+$Ei%CEa
+        HX8
+`/a(F
+ h`@
+(`       h`
+iF(F
+ !(F
+iF(F
+ !(F
+"       !0F
+@iF0F
+iF8F
+PiF0F
+%YHv!
+67`w`
+ p`O
+7`7 p`
+7`7 p`
+7`7 p`
+H(C0`) p`
+F.HO
+&O=`
+ x`O
+`nCF`
+ H`@
+!A`@!
+(` Fp
+"B`@"
+8L%`
+ ``O
+ `7 ``
+4 `oCg`
+ `a F
+LiFH4 F
+iF8F
+iF@F
+iF8F
+iF8F
+,C"C
+$/Ix
+KF:FAF
+CK:F!F
+AK:FAI
+s:FIF
+P$!F
+@V1F
+$,MO
+!&K:F
+0D!F
+!;F2F
+K:F!F
+!;FO
+K:FO
+<I9K ;
+20180528 SX100_STM32_MCU_V1.0.3.0_Release support revise mac addr by lct
+20180528 SX100_STM32_MCU_V1.0.3.0_Release support revise mac addr by lct
+ pGB
+ pGO
+P(D0
+PpG-
+@F!F
+FPFYF
+2F+F
+@F!F
+QA2F+F
+ pGD
+BpG *
+@pG *
+!pG!
+FpG *
+FpG-
+JF9F F
+SFZF
+FPFYFBF
+ F9F
+v,C7C
+}"v:
+0pGp
+"9F@F
+"9F@F
+!F(F
+1F(F
+"!F(F
+1F(F
+"!F(F
+"1F(F
+"1F(F
+"!F(F
+1F(F
+"1F(F
+"AF0F
+"AF0F
+"9F0F
+"9F0F
+$:F1F(F
+:F1F(F
+p\ D
+2\"D
+!;FJF
+!#FRF
+;FJF
+#FRF
+!AwY|
+ /Aq
+ 0Bq
+BF!FHF
+>N0x
+!P&H
+!HF
+er%r
+$M(x
+nxjF
+C\cE
+x(F
+!h\xTI
+)xhx
+ #%H
+p$81x
+x#PC
+x#PC
+x#PC
+x#PC
+x#PC
+x#PC
+x#PC
+x#PC
+R?Sp
+R?Qp
+R?Sp
+R?Qp
+R?Sp
+k@F1
+)I      h       x
+1F F
+iF0F
+iF0F
+/HMF
+#2F&H
+NF9F
+#RF1F
+  q@
+P!iHa
+hiCk
+hBh(F
+!F(F
+F'OG
+``iAh!
+@!iHa
+2F(F
+I F     h
+! iAa
+hAi F
+"iQa!{
+`iAh!
+aiHaE
+P!iHa
+`HaR
+^qHp
+`HaR
+I F     h
+ iAa
+I F     h       j
+ iAa
+@pG-
+@xiBk
+!8#@
+!+FO
+`pG-
+a!!Aa>I>J
+tgH2
+-K-J`3
+)L+Kx4
+I`5
+`pG0
+E,C"C
+j"CLj"C
+j"CLk"C
+`Bi"
+iB`Jh
+AcAk
+Ox`O
+L `O
+@+NiF0F
+'OiF8F
+iF0F
+NiF0F
+@iF0F
+~N0i
+{I|J
+yIzJ
+1hEH
+C0`T
+Cp` j
+CboT
+CbhA
+yKyB
+CBdpG
+#(M)h
+h(`!
+,h'hG
+W'`N`T
+HAiI
+##CO
+d "Bd
+$,CO
+@iF     H
+C!`#
+pfp0<
+ppG`
+"xfx
+""T!
+pA `p
+q!sas
+sCsAu
+Pd"F
+ pGRn
+2F;F
+"F+F
+K"F)F
+ h`O
+(`7 h`
+/`3 h`
+`0`(F
+2F9F
+!(#"F
+!8#"F
+@(OiF8F
+PiF8F
+OiF8F
+PiF8F
+@iF8F
+PiF8F
+@2 @
+3FAF8F
+3FAF8F
+@d @
+iF0F
+P5MiF(F
+"!F0F
+*OiF8F
+PiF8F
+"!F8F
+"1F8F
+iF0F
+PiF0F
+LiF F
+PiF F
+"@! F
+" ! F
+"9F@F
+"9F@F
+" !0F
+"@!0F
+"@!0F
+"AF8F
+"AF8F
+!F(F
+1F(F
+1F F
+1F F
+"2MT
+!F(F
+1F(F
+"!F(F
+1F(F
+" ! F
+"@! F
+" ! F
+"1F F
+"1F F
+"!F(F
+"1F(F
+"1F(F
+"!F(F
+" ! F
+"@! F
+"@! F
+" ! F
+9F0F
+"9F0F
+"@!0F
+" !0F
+9F0F
+"9F0F
+%ONO
+"AF0F
+"AF0F
+"9F0F
+"9F0F
+%&N
+" !0F
+" !0F
+"@!0F
+"@!0F
+"9F0F
+"9F0F
+!F8F
+1F8F
+)F8F
+CF`Eh
+5CE`
+ pGA
+*F3F
+:FCF
+:FCF
+*F3F
+FYF(F
+0F9F
+0F9F
+(J)K
+!F8F
+)x8F
+AFHF
+:FiF0F
+iFHF
+(D D@
+IFPF
+ D0D@
+ d @
+)F0F
+)F0F
+")F0F
+")F0F
+)F0F
+")F0F
+"1F8F
+"1F8F
+1F8F
+qhx`q
+x q&
+hx`p
+p(y qhy`qp
+FIFcH
++J+K
+*F3F
++F2F
++FRF
++FZF
+$@lxz?
+OH78h
+xh:F
+sWH88
+xUHH0
+pAh     x
+K'K*
+ "nI
+iJPl
+J :9
+$*07@GNW^ckqx
+F L
+ I      xI
+p@"!
+L ! F
+ ! F
+ ! F
+IH`pG
+/page/default/NovaAjax.html
+ReadWrite
+ SORT
+NAME
+aaac
+aaad
+aaas
+abaa
+acaa
+acab
+acac
+acad
+acae
+acaf
+acag
+adaa
+adab
+aeaa
+aeab
+aeac
+adad
+afal
+afam
+LANG
+ajad
+ajae
+ajaf
+ajag
+ajah
+ajai
+ajaj
+ajak
+akaa
+akab
+akac
+akad
+akae
+akaf
+alaa
+alab
+alac
+alad
+alae
+alaf
+alag
+alah
+alai
+alaj
+alak
+alal
+d BC
+alat
+alam
+alan
+alao
+alap
+alau
+amab
+amac
+amad
+amae
+asaa
+d BC
+ DevidIndex
+afaa
+afab
+afad
+afae
+afaf
+afag
+afah
+afai
+afaj
+afak
+ahaa
+ahab
+ahac
+ahad
+ahae
+ahaf
+ahag
+agad
+agae
+agaf
+agag
+agah
+PI      h
+KI      h
+FI      h
+@I      h
+:I      h
+5I      h
+0I      h
++I      h
+anaa
+anab
+anac
+aoaa
+araa
+C       h@
+C       h@
+KMKN
+5I      h
+4I      h
+ ERRC
+OIHh`a
+aMNNO
+1h }
+ `a%p
+  p&H
+`p8h
+)L`p)H
+ q&H
+`q%H
+ r`x
+`p#H
+ q H
+ r`x
+XL<#
+!n2
+jK#;
+        k##
+#Oi;
+j(#;
+s%ses%qeq
+WIUH
+##p`p
+pHH
+xGIEH
+.I,H
+##p`p
+USBS
+ IN1j
+1j(
+ 1k
+3F)F F
+0qM>
+aHjF
+]HjF
+$5hz
+        &bE9
+0xqx
+(xix
+(yiy
+QP9}
+)yjy
+)zjz
+!X#2F
+!X#2F
+!0?N
+pG@
+pG@
+`+NH6
+$HL0
+`#HT0
+(`0h@
+`(h
+(`0h
+0`8F
+pGpG|
+IFXF
+IFXF
+"IFXF
+"IFXF
+IFXF
+IFXF
+"IFXF
+"IFXF
+#IFXF
+#IFXF
+FIFXF
+FIFXF
+#IFXF
+#IFXF
+FIFXF
+FIFXF
+!#%'
+ ht.rnr
+ Update failed......
+......
+x@xA
+`p`x
+`p`x
+`p`x
+`p`x
+`p`x
+`p`x
+`p`x
+`p`x
+p8<t
+`p`x
+p8<i
+`p`x
+p:<s
+`p`x
+p:<h
+`p`x
+p<<r
+`p`x
+p<<g
+`p`x
+p><q
+`p`x
+p><f
+`p`x
+p@<r
+`p`x
+p@<h
+`p`x
+pB<r
+`p`x
+pB<i
+`p`x
+`p`x
+IhFA
+ VIWL"\
+!!T@
+APax
+"1F8F
+s |X
+"1F8F
+e'Hhf
+(g(o
+!0F
+e(o@
+e(o
+`*K+I
+`(NH6
+"IL1
+` IT1
+!@F
+(`0h@
+`(h
+(`0h
+0`8F
+$L h
+MH5(h
+!8F
+ `(h@
+` h
+ `(h
+(`0F
+.F0x
+I2FI
+)F0F
+!F0F
+!9pU!yp
+xyq1y
+8\ D
+8\ D
+8\ D
+YDHt
+8\ D
+8\ D
+8\ D
+8\ D
+q       9(
+8\ D
+8\ D
+8\ D
+$ [I
+8\ D
+8\ D
+8\ D
+  :D
+8\ D
+8\ D
+8\ D
+DP(.
+8\ D
+8\ D
+8\ D
+8\ D
+ D9D
+ D9D
+UP D
+ 8pU xp
+xxq0y
+8\ D
+ D9D
+rPus
+L%pep
+aq%r
+L%pep
+eq%r
+qfr0
+~D(F
+pGpG-
+!58\r
+o`fp
+`pU(
+  pR
+`pHE
+  pD
+  pA
+  p>
+  p;
+axU)
+t`        pl
+  pi
+;M$5
+!x F    )I
+t`"M$5
+$8](D
+ (pU hp8N0x
+xhq0y
+s/totO
+!k\STI
+!c`k@
+`c      xap
+IU      h
+.MiF(
+7 +OO
+9`x`
+9`x`
+ pG4,
+h"CDh,C"C
+.u.`n`
+.u.`n`
+#CsdF
+Aui
+AaQh
+DEiE
+$Ei%CEa
+        HX8
+`/a(F
+ h`@
+(`       h`
+iF(F
+ !(F
+iF(F
+ !(F
+"       !0F
+@iF0F
+iF8F
+PiF0F
+%YHv!
+67`w`
+ p`O
+7`7 p`
+7`7 p`
+7`7 p`
+H(C0`) p`
+F.HO
+&O=`
+ x`O
+`nCF`
+ H`@
+!A`@!
+(` Fp
+"B`@"
+8L%`
+ ``O
+ `7 ``
+4 `oCg`
+ `a F
+LiFH4 F
+iF8F
+iF@F
+iF8F
+iF8F
+,C"C
+$/Ix
+KF:FAF
+CK:F!F
+AK:FAI
+s:FIF
+P$!F
+@V1F
+$,MO
+!&K:F
+0D!F
+!;F2F
+K:F!F
+!;FO
+K:FO
+<I9K ;
+0I-K@; "
+-I.K
+K@; "
+sLsLq
+NjFv
+        #*F1F
+pMp*
+xrx
+1xpx
+J)FHF
+RxBE
+@]@E
+WM(x
+xjx
+(xix
+J1FPF
+BL%pBH
+p%qeq
+r!sas
+K >6
+HIHJ
+zRFO
+!SF"F
+SF"F
+GPP"O
+!P#RF
+P#RF
+!SFBF
+!SFJF
+!SF2F
+BFSF
+JFSF
+2FSF
+;FRF
++F:F
+)F F
+@BpG
+@iF(F
+@iF(F
+p r`r
+  p8
+C+C$
+C1C%
+ b"CB
+"       !(F
+iF F
+/Q F
+iF F
+/Q F
+iF F
+/Q F
+iF F
+/Q F
+ pGp
+AcpG
+  pU `p
+pU!Ap
+"       !(F
+%T!F(F
+"!F(F
+ppGf
+A'L@
+%U)F F
+)F F
+'w&F9F0F
+A\0F
+9F0F
+A-L@
+%U)F F
+)F F
+$J"K
+'w&F9F0F
+A\0F
+9F0F
+A'L@
+%U)F F
+)F F
+'w&F9F0F
+A\0F
+9F0F
+ pGp
+$ Fp
+)F F
+ yJhiF
+ yJiiF
+)F F
+kT"x
+F%p F
+)F F
+HpGJ
+F9N!x
+!F(F
+"(I(F
+!F(F
+!F(F
+!F(F
+!y(F
+!y(F
+#@"(F
+#@"(F
+!y(F
+1iHa
+C F|
+ yIh
+I       h@iA`
+Q)F F
+aiIh
+FiF F
+iF F
+iF F
+iF F
+&)yhx
+)F F
+)F F
+)F F
+)F F
+)F F
+ MSC Config
+ppG2
+ppG2
+ pGpGpGpG
+ MSC Interface
+ STMicroelectronics
+ Nova3D HD
+Mass Storage in HS Mode
+ 00000000001B
+00000000001A
+4`AH
+FIxXF
+sxXF
+sxXF
+ hp5
+IxXF
+"1FXF
+8@yhp
+ pGp
+%(Fp
+1F F
+%` h@
+P*LiF F
+OiF8F
+zqHC
+`(F>
+``{@&
+a`iEaaiO
+`@iAhA
+qA` F
+KxJi
+ibaE
+`By*
+@@iBk
+mZaD
+`0F~
+a(F|
+a F<
+Kx      x
+xJiO
+h:DR
+BzCb
+h:DR
+BiSkC
+a!io
+@Ha F
+a(F8
+FpG8
+@pG@i
+pG@i
+h@i@i
+i@ipG
+#JCs
+!(Fp
+!iHa
+!F(F
+!F(F
+!x8@
+Aa i
+hAh F
+hAh F
+!iHa
+pU"Jp
+rPzHr
+sP{Hs
+tP|Ht
+o.H.J
+oAHAJ
+DCx:L$h#
+x9L$h#
+\0L$h#
+DCx/L$h#
+x.L$h#
+DBxJp
+q@yHq
+ pG-
+!#x*F
+#x*F
+KFBF
+@b#x
+#x*F
+RFYF
+LRF!F
+9\Qp@
+%F)F
+9F0F
+9F0F
+h`.s
+h`.s
+h`.s8x
+h`.s
+h`.s
+h`.s
+;x"F
+h`.s
+h`.s
+h`.s>J
+h`.s
+xyx8x
+h`.syx8x
+h`.s
+h`.s:x
+h`.s
+xzx9x
+h`.s
+xyx8x
+h`.s
+h`.s
+xzx
+h`.s
+;x"F
+h`.s
+h`.s
+h`.s
+h`.s
+8yzy
+yHCO
+h`.s
+xH+Y
+h`.s
+xzx
+$ 1F
+$ 1F
+h`.s
+PB(^
+xzx
+PD(`
+xzx
+h`.s
+h`.s
+xzx
+D e9y*H
+pyyAp
+xzx
+D e9y
+pyyAp
+h`.s
+D e9y
+pyyAp
+h`.s
+Q$!F
+R&1F
+h`.s
+ kXE,
+9xVH
+        PHO
+  eYFO
+D!m@
+5np.p
+p.qnr.rnq
+r.sns
+r.s.rnr
+r.s.rnr
+D!m@
+ hwh
+h`.sO
+T&P"1F
+HB\jTI
+DP((
+KP"1F
+h`.s
+V%)F
+!KF:F
+!KFBF
+!KF2F
+:FKF
+BFKF
+2FKF
+h`.s
+h`.s
+1F(F
+1F(F
+h`.s
+h`.s
+1O1I
+*L&p*H
+!qfq
+ \hT
+*L&p*H
+p'qfq
+pGpG
+z!{@
+!hIz
+ajd
+fq&`&r!F(F
+`r(F
+&`f`&
+{DzB
+`HC%
+`HC%
+`HC%
+iF(F
+|7IJ
+`       h!`@h
+"5! F
+"2! F
+Jai`h
+F,j1H
+"5! F
+"9! F
+"7! F
+Jai`h
+CpGp
+h,2@$
+b c`c3! F
+`d:! F
+d;! F
+F%j F
+F,j6! F
+"5! F
+"9! F
+Jai`h
+zqHC
+"5! F
+"9! F
+"2! F
+Jai`h
+zqHC
+F,jshp
+1F F
+5! F
+b`c c
+"5! F
+ai`h
+zqHC
+"5! F
+"9! F
+ai`h
+"5! F
+"9! F
+"2! F
+"6! F
+"7! F
+Jai`h
+P!(F
+  b0Fp
+n`(F
+!F0F
+\+T;\
+iAF0F
+)F F
+1F(F
+h!hjh
+2F!F(F
+9QF F
+!FPF
+ZF1FPF
+1F(F
+5F(F
+`M`X
+i1F8F
+](U)
+9F0F
+!F(F
+)F F
+*i)F F
+F&! F
+ !HF
+$=!HF
+%h[h
+%hGh
+#hEh
+!hA`
+%F$hhh
+vpGI
+vpG,
+(p-H
+ia'`)i
+D``hi
+  u F
+F)h"F
+` Fp
+"9F F
+"FAF
+ <b>***UNKNOWN TAG
+***</b>
+@O8i
+5p8F
+)F0F
+!FGh
+BF!F0F
+/404.html
+/404.htm
+/404.shtml
+h`b!`
+h``Jhba
+a#w     }
+#`c`
+#2F'I
+:F(F
+GET
+!F0F
+2F!F
+!F0F
+!F0F
+!F8F
+!F8F
+!F8F
+ah j
+#jF8F
+#jF8Fah
+b j@
+ j`bah
+#jF8F
+ah`j
+#jF8F
+#jF8F
+ah j
+#jF8F
+!F8F
+apGh
+`Z`pG
+@u(F
+)F F
+CF"F9F(F
+P"!F(F
+F!F F
+Flh
+"!(F
+9F(F
+)F0F
+thIF0F
+9F(F
+plh&p
+ pGJh
+`CH
+"Ah(F
+SFBF
+IF0F
+        uh(
+uh$Lg`
+`9F0F
+9F0F
+9F0F
+9F0F
+KF2FAF
+8h a
+:F)F0F
+:F1F(Fki
+1F(F
+'F$h
+1F(F
+YF F
+`hFh5h
+nhQF(F
+)FHF
+9F F
+ @B
+xh@h
+)F0F
+ ! F
+HAh!`D`
+%th`h
+`h'F
+AF0F
+h)hbh
+L h
+)F0F
+F)F0F
+FAF(F
+BIyDQ
+F>I(F
+F8F:I
+:IyDQ
+~Q0F
+F)I(F
+F%I(F
+2>;=
+&fgO
+q`o@
+p`7I
+3K4J
+" !@F
+" !@F
+z\aE
+p9DR
+!0pGDs
+ b`b
+(p'a F
+hh `l` F
+!F0F
+)F0F
+Fih h
+ hh`p
+FpG-
+`hBF
+hh0D
+&-h`
+'$h<
+5F`h*F
+{Dh:
+  `p
+QF(F
+HxDP
+9FPF
+9F0F
+9FXF
+9F(F
+QF8F
+cIyDQ
+aIyDQ
+YF8F
+ |PE
+JF!F
+*F9F F
+QFHF
+apGo
+d d`c e
+< Fp
+AapG-
+!-9BUUK
+          t
+L h8
+!hHh
+"       I(F
+Can not bind pcb
+Can not create new pcb
+;IXF
+p1IXF
+Da`b
+ah@D
+#8Fah
+AF8F
+`hJF
+@hPD
+`h@h
+`h@h a(
+!iH` i
+0i@h
+8i@h
+yhph
+8h0`
+4F9F
+HDi#
+#!F`i
+AB(F
+AB(F
+FphA
+FphA`
+"mO8h
+`}`ph8a
+#!F`i
+G!F:H
+!F4H
+!F`i
+#!F`i
+F!F`i
+")F F
+!F(F
+F7N0x
+i!`)
+h``qh
+"fhi`a
+`iha
+ (t
+ h(`
+`(Fp
+DZiX
+DH`pGD
+ i@h
+ hhg(|
+)F F
+ i@h
+ i@h
+F8i@h
+6h0hX
+F i@h
+0h `4`
+<`'F
+ i@h
+ i@h
+@h `
+c(i@h
+ dih(
+ih(iH`(i
+!Fhh
+FLh(
+g`hj
+Nth F
+5 pG
+h cO
+  t
+"!F`i
+"!F`i
+RP F
+(`(h
+'t0h
+  ts
+  tg
+(`(h
+'t0h
+`4`:
+(`(h
+'t0h
+O.F8x
+!f9iaf
+anaD
+"<44
+D9i@
+(h`ghh
+p<`o
+ (Deo
+D8iA
+!l:i
+Dab!
+$h hP
+F0i@h
+ h0`&`<5
+lhPF
+``0F
+#BF9F(F
+F2F)F F
+!F(F
+pGAtpG
+&|iO
+"Faj
+ pax4<
+!F`i
+L!xJ
+        I       h
+"1FCh(F
+)F0F
+!F F
+(h``
+I       hA`
+can not bind pcb
+can not create pcb
+#iF F
+Hp`1F(F
+rqProMI:
+AB@F
+BF!F
+ ! F
+;F"F1F(F
+!F F
+=Fnh`
+zRFAF(F
+)F F
+AF F
+3FBFIF(F
+Nova    ProHD           1.00
+rpProMI:App,0161
+  ?
+0($"!0
+$$?$
+"!!"
+@@@@@@@
+ ?
+ ?
+ ?  #
+  ?
+ ?    0
+$$8PO
+8 !!"
+
+ 8&!
+$"""?
+""""
+  ?
+  ?
+  ?
+
+  ?!
+3$$$$
+!0,"!0
+0  0
+   ??
+@@@@
+84210000>
+  0_
+    0
+!!??!!
+    8
+0
+@@@@
+X00``
+    0
+@@@@
+8
+`@`?
+tTTUVTTTt
+DDD_
+DDD_D
+BBBB~
+%$$$%
+?@@@@@x
+   ' 0.!
+  (,
+BEURJ)$$
+BB*.
+@D$$
+$$D@
+IJLH
+HLJI
+~""""~
+DDDDDDD
+ PLC@@OPP\@
+$$@?
+
+@@@
+?@@@@@x
+?BBC@DGp
+?BBBCBBBC@x
+'"&:
+IIII
+s"@DDD
+DDD@
+d$$?$$
+$$$?
+t_TT
+@@DDDDD
+DDDDDD@
+BBBBB@@
+JLHH
+ @@?
+ !!!!!?!!!!!1
+T_TT_
+DDGDD
+DDGDDD
+JJJJJJJ
+`_I)$
+@@_HHHHH_@@
+?@@@@x
+@@@
+ `
+zJJJJJz
+@@OHHOHHO@@
+|@@@@
+@@@@
+|@@@@@
+@@@@@
+HFAAAA
+AAAA@@
+AAAAAAA
+@@@@@@
+@@@@@@
+@@@@@@@@
+DTTT
+TTTD@
+, ? (
+                        I
+#"&*"
+$#"&*
+i               I
+}
+DDDDDDD
+DDDDE
+DDDDD
+DDDDD@@
+$$$t%&$t$$$
+zJJJJJz
+@@HHHH
+HHHHH@@
+"r*&
+B"?"
+@@@
+ `
+R""R
+JJJ~JJJ
+@@@@@@
+DDDDDD@
+   8
+@@  0($
+$((0 `
+'%$$
+%&4,$
+@@ !
+ XGPHEBEHP@
+  '$$$'
+@DTTT
+TTTTTD@
+HHHINJHHHx
+~"""""""~
+""""
+""""
+~BBB~
+IIIIIII
+JIHJ
+$%&$$$<
+@@@@@@@
+HHHH
+RZVRR
+BbRJFBBBRb
+@@DDDDD
+DDDDD@@
+@@BBB~BBB@
+ ",
+?
+DTTT
+IIIH@
+IIIIIII
+""BB
+DDDEDDD
+                ?I
+@PNHH
+HHH@
+>"*2"
+"2*">
+h               )
+BBBBB
+TTTTTTT
+IMW%%%UME
+@BDX@
+@PHF@
+@@BBBBB
+BBBBB@@
+>""""">
+@III
+IIIA
+LT$4ODD
+@DTe
+?@@@x
+?@@@@p
+?@@@@@@@@@@x
+$$$%&$$$$
+'DEE_EED
+DDDE
+DDD@
+$$$$$
+"""#"
+@~BB~B~BB~@
+@@@@
+@@@@
+@@}DD}DED|DE|@@
+@@AN@@cPLC@@
+IIIII
+IIII
+IIII
+  @@
+T$_D
+  ?
+@tAb
+9}<89
+9+Be9
+@@@@@@@@@AAAAA@@@@@@@@@@@@@@@@@@
+
+<!--#
+/index.ssi
+.ssi
+/index.html
+/index.shtml
+.shtml
+.xml
+/index.htm
+/index.shtm
+.shtm
+sand
+/leds.cgi
+FIN_WAIT_1
+FIN_WAIT_2
+ESTABLISHED
+CLOSED
+SYN_RCVD
+CLOSING
+LAST_ACK
+LISTEN
+TIME_WAIT
+CLOSE_WAIT
+SYN_SENT
+<-V1.0
+q8-@X,E$
+LG FULL HD
+#n(3

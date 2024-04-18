@@ -1,0 +1,551 @@
+Строки из NUVOTON_bank0.bin (выдала srtings) (В NUVOTON_bank1.bin и NUVOTON_bank2.bin строки не нашлись)
+======================================================
+Самое интересное на мой взгляд:
+2017.08.24 SX100_MCU_Data_V1.0.0.0.S3.T2
+ !!""##$$$%%&&''(())**++,,--..//0112234455677899:;;<=>>?@AABCDEFGHIJKLMNOPQSTUVXYZ
+ NOVASTARM3
+NOVA HD CARD
+======================================================
+pGpG
+F!I"H
+ h(C `
+ a i
+C!a i
+ a i
+C a!i8
+C!a!i
+CJ`*M
+!(h
+C(`(L
+ ! F
+&0C ` h
+'8C `
+ h8C ` h0C `
+        h7J
+!`F
+        h!J
+<!hF
+p-!Ap
+"iFP
+x!hF
+pi!ApZ!
+THBx
+NHY!
+sFcDI
+sFcDI
+PxiZK
+ !A`
+xiZK
+MHiF
+"KI0F
+ILax x
+"!FCH
+ax x
+ax x
+ay y
+"!F1H
+ax x
+:F#I
+iF \
+jFa\
+xiZK (-
+-IHi
+CHa hI
+C ` h
+C ` h
+Ca` h
+%(C ` h
+C ` h
+c hI
+        H 0
+"       !(F
+"I#J"L
+2L1M
+%%b%hm
+F@67h
+HgFG`
+`"hR
+F@5/h
+!Ab h
+,L*M
+  b%H
+`%Mi`
+`$I"h
+Nd6.`
+FFbhj
+#I$J#L
+YCPC
+`!iI
+I(`J
+@       IIhHC   IHa
+apG
+2017.08.24 SX100_MCU_Data_V1.0.0.0.S3.T2
+8F1F
+*F#F
+8F1F
+QA*F#F
+$H@
+F,I$
+#C&CaF
+FP@q@
+@pGJ
+!F(F
+ F9F
+C,C7C
+h "0#
+`/KC`/K
+C&M#C
+`$N5h
+=C5`!M,`
+,CLa
+,CLa
+bAjCj
+5L y
+%q?!
+fqA!z
+rB!z
+ sA!z
+q i@
+ a`y
+y"l!
+p`x@
+% !z
+*F1F8F
+Lax x
+ xG(
+`xc(
+`y((K
+x`x
+y`y
+%,F
+!A^2
+!A^1
+!A^0
+ !A^/
+!A^.
+!A^-
+!A^,
+"!A^+
+!A^*
+!A^)
+!A^(
+$!A^'
+!A^&
+!A^%
+&!A^
+FQC8
+!FqC-
+FqC+
+Fq`*
+!FqC)
+FqC'
+ZCsFXC
+P,T#
+iFHp
+rgr`z
+&5F$!hF
+%'JYw
+ `q
+`q`I
+xR`q(
+$oF`
+x'      $
+FEqLy
+z&      $
+DrLzDs
+uL{Dt
+{AudF
+F!I"H
+Ai "
+CAa     I
+F       hpi
+Cpaah
+])j
+& j6
+"       ! F
+"       !@8
+&!x
+"ax x
+`\iF
+iF \
+7:F2I
+:F2I
+!\8\
+<!hF
+p-!Ap
+hFAq
+x!hF
+pi!ApZ!
+CB`pG
+5I 1
+3H      x
+A{1H
+2FaCzC
+c"e!
+"A!z
+"V!z
+"@!z
+"I!z
+"U!z
+"W!z
+"s!z
+"v!z
+0" !
+@"3!
+"l!D
+">!D
+"@!D
+">!D
+:!D
+;!D
+=!D
+"@!d
+"t!d
+D"L!h
+"o!h
+"W!h
+"X!h
+"u!h
+"l!h
+"w!d
+"p!d
+"t!d
+0" !
+"t!d
+"t!d
+y"n!
+"UIhF
+PNQH`6
+ !\@
+F!\@
+ iFC
+"~!l
+"~!l
+S!h
+$M(h
+`z!z
+gr&r
+N,xpx
+)I)J
+b)J(L
+c&L@<'b
+$@>4b7b
+4b}
+b8L6N
+c4N@>1b
+&&b&hv
+F@5-h
+'=C(O@7=`%O
+%@?=b9b
+ b HaFA`
+`!hI
+N@62`
+!Ab h
+*>F[
+b/K.M
+c,M@=,b
+`(Mi`
+8F9F
+Nd6.`
+Ffblj
+nb:`
+(I(J
+b(J'L
+c%L@<'b
+$@>4b7b '
+%I&J
+&&b'b
+Ax
+ (pA hp
+M@ )x
+         (p0F
+/phF
+/phF
+~Lax x
+sH "
+ xG(
+`xc(
+F F@6
+"eIfH
+"GIT
+"BIU
+"<IV
+"7IW
+"1IX
+",IY
+"&IZ
+"!I[
+(x p
+ h(C `
+ a i
+C!a i
+ a i
+C a!i8
+C!a!i
+"J`XH
+ULh$
+exLhtC$
+pLh$
+xLhtC$
+%qLh$
+x%      LhtC$
+pLh$
+epLh$
+%yLhtC$
+eqLh$
+eyLhtC$
+qLh$
+yLhtC$
+%rLh$
+yLhtC$
+rLh$
+$z%     LhtC$
+erLh$
+qLh$
+ezLhtC$
+rLh$
+zLhtC$
+%sLh$
+zLhtC$
+sLh$
+%{LhtC$
+%tLh$
+e{LhtC$
+esLh$
+{LhtC$
+sLh$
+\tKh[
+K`Lh
+pc Hp
+q( Hq
+pc Hp
+q( Hq
+L       "'x!F
+"x`x
+xI      I
+ xG(
+ FAxc)
+2ZI0F
+62F>I
+2F;I
+9KXj
+aHj@
+HbHj
+#CC^
+I       j
+Oax x
+"jI
+ xG(
+`xc(
+ax x
+Lax x
+A !F
+ax x
+ xax
+!F8F
+  pep
+"!F8F
+"!F8F
+%pep
+"!F8F
+aAa!
+Axc)
+xm(9
+2tI F
+"fI F
+2M3H,p
+(p/H
+(p+H
+CJ`*M
+!(h
+C(`(L
+ ! F
+&0C ` h
+'8C `
+ h8C ` h0C `
+L xG(
+`xc(
+x       (
+ x}CEC
+5F3F
+ vItOtL
+@"eI
+%@"YI
+4"FPI
+"FEI
+INJO
+"3I(F
+#q  "
+#s  "
+#9  "
+5FsO
+HMVO
+"5x1F
+1F"
+}CEC
+F F@6
+Az 0
+)Az&
+%FFC
+!F"
+,php)F
+DC,p
+~!l
+"t!d
+"w!d
+"p!d
+"t!d
+ 2>A7FPP#&),F/PPPPPPPPPPPPDP
+4'F$
+'F      $]
+"9F0F
+*F!I
+{'F&F
+*7X_
+VM-m
+ 9C1p
+WN7x
+qx0F
+x9Ud
+GI0@
+4H7I
+ )"2I
+*M.x
+@x0Ud
+z@z1]
+@[x9]
+ pa
+XIWH
+`OH-
+.H5I
+"9F(F
+24hw
+ yU(
+9RhF
+9ZhF
+ qhF
+xRiF
+ tiF
+!|QH
+'MN?
+hFKI
+-IhF
+"O(N
+1ThF
+1\hF
+  (-
+-IHi
+CHa hI
+C ` h
+C ` h
+Ca` h
+%(C ` h
+C ` h
+c hI
+        H 0
+"       !(F
+CJ`pG
+`pG0
+$I      x
+ #;;&;
+*M*O(`8
+C$L8
+ax
+ax
+ax
+ -0@
+  r z(M
+zhq {
+iz*z
+Ix"|
+x"|
+_M(p
+RI8F
+0" !
+"t!d
+"w!d
+"p!d
+"t!d
+PTiF
+FjFPx
+"F+F
+iFHpQ!h
+hF@x
+,pP"A!z
+L@<!b!b
+  b b
+"I#J"L
+2L1M
+%%b%hm
+F@67h
+HgFG`
+`"hR
+F@5/h
+!Ab h
+,L*M
+  b%H
+`%Mi`
+`$I"h
+Nd6.`
+FFbhj
+"I#J"L
+#I$J#L
+"%x!F
+!F"
+ &uC
+"0I1H
+ xG(
+`xc(
+`y((
+YCPC
+`!iI
+I(`J
+hnF3
+LiF F
+&1CAc
+MiF(F
+!AspG`
+!AspG`
+!AspG`
+!AspG`
+!AspG`
+rAspG
+!AspG`
+!AspG`
+rAspG
+!AspG`
+"HBx
+Fc][
+pGpG
+@       IIhHC   IHa
+apG0
+iF8F
+"iF8F
+hF.M
+hF@x
+!hFB\
+blb@
+2iFE
+,M(p
+)x*H
+*M*N
+iFHq
+%%b+LC%%b
+ b)H
+`(Mi`
+!O#N@7
+F>`"J
+""b!J
+` Jd2*`"h
+F2F>`
+FFbhj
+nb:` h
+LE''b
+HA`R
+"Bb h
+   !!""##$$$%%&&''(())**++,,--..//0112234455677899:;;<=>>?@AABCDEFGHIJKLMNOPQSTUVXYZ
+p8#@0 6
+NOVASTARM3
+NOVA HD CARD
+
+xiZK
